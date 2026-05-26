@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Data caches / large outputs
+*.npz
+
+# OS / editor
+.DS_Store
+.vscode/
+*.swp
+
+# Optional: keep figures out if they're large, or keep them if you want them shown
+# *.png
